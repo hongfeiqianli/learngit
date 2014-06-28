@@ -21,6 +21,8 @@
     NSLog(@"learn git");
     
     NSLog(@"learn git 1");
+    
+    NSLog(@"learn git 2");
 }
 
 - (void)didReceiveMemoryWarning
